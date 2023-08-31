@@ -1,16 +1,15 @@
 # flutter_inkflow_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Flutter Notes App. Following are its main features.
+1. Themed UI for both light and Dark Modes
+2. Responsive UI for all sized of mobile devices.
+3. Notes in a List View and Grid View.
+4. Animated Switchers for switching between Notes.
+5. Google Sign In
+6. Create Account and Login Using Firebase Auth
+7. Firebase Storage for storing user Data
+8. Local DataBase (ISAR) for storing and fetching notes fast.
+9. Shared prefernces for storing user and other important data locally in App Storage.
+10. Check the Videos Previews at
+    1. For Light Mode   https://www.instagram.com/reel/CwjsMeFyK99/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
+    2. For Dark Mode    https://www.instagram.com/reel/Cwmea-JS5sm/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
+       
