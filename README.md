@@ -1,3 +1,6 @@
+
+![SINEMA APP POST](https://github.com/zargham746/flutter_notes_app/assets/121686435/7a26761d-f2dd-44f7-af0c-f3d2c83b5d14)
+
 # flutter_inkflow_app
 This is a Flutter Notes App. Following are its main features.
 1. Themed UI for both light and Dark Modes
@@ -17,6 +20,7 @@ This is a Flutter Notes App. Following are its main features.
 
 **INSTALLING**
 1. Clone Repository
+
 2. Get All Dependencies
 3. Add firebase to your App.
 4. Enable Authentication and in authentication
